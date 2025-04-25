@@ -1,4 +1,3 @@
-Okay, here's a shorter, more high-level README focusing on the "About" and "Overview" aspects:
 
 # Deep Learning Assignment: Generative Models and Sequence Arithmetic
 
@@ -40,14 +39,3 @@ The project involved implementing, training, and evaluating deep learning models
 ## Explore the Code
 
 Detailed implementations, experiments, training logs, and visualizations for each model and task can be found in the Jupyter notebooks within this repository (e.g., `VAE.ipynb`, `GAN.ipynb`, notebooks for sequence tasks).
-
-## Contributors
-
-*   Priyanjali Goel (4406559)
-*   Jyothis Gireesan Mini (3777103)
-*   Michail Athanasios Kalligeris Skentzos (4398831)
-
-**Contribution:** Everything, Everyone, All At Once
-
-
-This version provides a quicker summary of the project's scope and achievements without going into the detailed experimental setup or specific numerical results found in the report.
